@@ -21,13 +21,20 @@ Tutorials requirements:
 
 •	Download STM32CUBE IDE through the link:
 https://www.st.com/en/development-tools/stm32cubeide.html
+
 •	STM32F429 Discovery board. 
+
 •	Hardware and components as requested in description of some of the tutorials
+
 The tutorials use the HAL library of functions, which allows portability across STM32 boards, so the user can modify the solution by using another board without loosing the learning benefit intended by the tutorial. 
 As you can see in the list of tutorials in the repository, the naming follows the template:
+
 •	Chapter number – MCU Topic – Tutorial number – Description of the tutorial
+
 for example:
+
 •	CH10 FreeRTOS - Tutorial 10-3 Task management Example 1 
+
 Hence, the user can refer to the example listing 10.3 in Chapter 10 of the book addressing FreeRTOS, where the exercise presents an example on Task management in microcontrollers. 
 Tutorial description in main.c file:
 In each tutorial, you will find in the main.c file, a description of the project to form, and a list of the tags for the topics (or MCU peripherals) which form part of the tutorial. This helps the reader to get an idea of the project without referring to the book, or to select which tutorial would be more appropriate for him or her.
