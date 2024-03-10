@@ -18,6 +18,7 @@ It is recommended to have a copy of the book to support understanding of the top
 
 **************************************************************************************
 Tutorials requirements: 
+
 •	Download STM32CUBE IDE through the link:
 https://www.st.com/en/development-tools/stm32cubeide.html
 •	STM32F429 Discovery board. 
@@ -34,4 +35,5 @@ In this repository, the tutorials use the language C to form solution of the pro
 ***************************************************************************************
 
 A note about the Book:
+
 This textbook introduces basic and advanced embedded system topics through Arm Cortex M microcontrollers, covering programmable microcontroller usage starting from basic to advanced concepts using the STMicroelectronics Discovery development board. Designed for use in upper-level undergraduate and graduate courses on microcontrollers, microprocessor systems, and embedded systems, the book explores fundamental and advanced topics, real-time operating systems via FreeRTOS and Mbed OS, and then offers a solid grounding in digital signal processing, digital control, and digital image processing concepts — with emphasis placed on the usage of a microcontroller for these advanced topics. The book uses C language, “the” programming language for microcontrollers, C++ language, and MicroPython, which allows Python language usage on a microcontroller. Sample codes and course slides are available for readers and instructors, and a solutions manual is available to instructors. The book will also be an ideal reference for practicing engineers and electronics hobbyists who wish to become familiar with basic and advanced microcontroller concepts. 
