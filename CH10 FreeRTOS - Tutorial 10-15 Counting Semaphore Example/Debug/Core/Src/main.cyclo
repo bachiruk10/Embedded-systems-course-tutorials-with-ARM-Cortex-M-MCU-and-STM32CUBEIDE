@@ -1,0 +1,14 @@
+../Drivers/CMSIS/Include/core_cm4.h:2064:26:ITM_SendChar	4
+../Core/Src/main.c:132:5:_write	2
+../Core/Src/main.c:144:5:main	1
+../Core/Src/main.c:235:6:SystemClock_Config	4
+../Core/Src/main.c:288:13:MX_TIM2_Init	4
+../Core/Src/main.c:333:13:MX_GPIO_Init	1
+../Core/Src/main.c:368:6:StartDefaultTask	1
+../Core/Src/main.c:389:6:StartTask02	1
+../Core/Src/main.c:411:6:StartTask03	1
+../Core/Src/main.c:426:6:fillarray	2
+../Core/Src/main.c:432:6:multiplyarray	2
+../Core/Src/main.c:438:6:printarray	2
+../Core/Src/main.c:454:6:HAL_TIM_PeriodElapsedCallback	3
+../Core/Src/main.c:479:6:Error_Handler	1

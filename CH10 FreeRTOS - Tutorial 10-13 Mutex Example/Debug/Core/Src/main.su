@@ -1,0 +1,10 @@
+../Drivers/CMSIS/Include/core_cm4.h:2064:26:ITM_SendChar	16	static,ignoring_inline_asm
+../Core/Src/main.c:124:5:_write	32	static
+../Core/Src/main.c:136:5:main	8	static
+../Core/Src/main.c:214:6:SystemClock_Config	88	static
+../Core/Src/main.c:267:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:302:6:StartDefaultTask	16	static
+../Core/Src/main.c:316:6:StartmyTask02	16	static
+../Core/Src/main.c:331:6:ledChange	16	static
+../Core/Src/main.c:347:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:364:6:Error_Handler	4	static,ignoring_inline_asm
