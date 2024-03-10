@@ -38,6 +38,10 @@ for example:
 Hence, the user can refer to the example listing 10.3 in Chapter 10 of the book addressing FreeRTOS, where the exercise presents an example on Task management in microcontrollers. 
 Tutorial description in main.c file:
 In each tutorial, you will find in the main.c file, a description of the project to form, and a list of the tags for the topics (or MCU peripherals) which form part of the tutorial. This helps the reader to get an idea of the project without referring to the book, or to select which tutorial would be more appropriate for him or her.
+
+***************************************************************************************
+Programming Language:
+
 In this repository, the tutorials use the language C to form solution of the projects. 
 ***************************************************************************************
 
