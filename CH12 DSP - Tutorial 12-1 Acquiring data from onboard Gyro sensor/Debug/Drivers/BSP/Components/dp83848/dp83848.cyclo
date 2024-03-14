@@ -1,0 +1,14 @@
+../Drivers/BSP/Components/dp83848/dp83848.c:62:10:DP83848_RegisterBusIO	5
+../Drivers/BSP/Components/dp83848/dp83848.c:87:10:DP83848_Init	15
+../Drivers/BSP/Components/dp83848/dp83848.c:187:9:DP83848_DeInit	4
+../Drivers/BSP/Components/dp83848/dp83848.c:212:9:DP83848_DisablePowerDownMode	3
+../Drivers/BSP/Components/dp83848/dp83848.c:242:9:DP83848_EnablePowerDownMode	3
+../Drivers/BSP/Components/dp83848/dp83848.c:272:9:DP83848_StartAutoNego	3
+../Drivers/BSP/Components/dp83848/dp83848.c:308:9:DP83848_GetLinkState	15
+../Drivers/BSP/Components/dp83848/dp83848.c:400:9:DP83848_SetLinkState	7
+../Drivers/BSP/Components/dp83848/dp83848.c:452:9:DP83848_EnableLoopbackMode	3
+../Drivers/BSP/Components/dp83848/dp83848.c:482:9:DP83848_DisableLoopbackMode	3
+../Drivers/BSP/Components/dp83848/dp83848.c:522:9:DP83848_EnableIT	3
+../Drivers/BSP/Components/dp83848/dp83848.c:562:9:DP83848_DisableIT	3
+../Drivers/BSP/Components/dp83848/dp83848.c:601:10:DP83848_ClearIT	2
+../Drivers/BSP/Components/dp83848/dp83848.c:631:9:DP83848_GetITStatus	2

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Nucleo-printf/CH6 Serial communication putty Debug.launch&apos; to &apos;Nucleo-printf.launch&apos;" description="Rename resource &apos;CH6 Serial communication putty Debug.launch&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="CH6 Serial communication putty Debug.launch" name="Nucleo-printf.launch" stamp="1698522242277" updateReferences="true"/>
+</session>

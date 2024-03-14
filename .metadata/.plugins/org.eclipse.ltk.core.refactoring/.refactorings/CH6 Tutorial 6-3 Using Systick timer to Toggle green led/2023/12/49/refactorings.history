@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CH6 Tutorial 6-3 Using Systick timer to Toggle green led/CH6 6-3 Toggle green led using Systick timer.ioc&apos; to &apos;CH6 Tutorial 6-3 Using Systick timer to Toggle green led.ioc&apos;" description="Rename resource &apos;CH6 6-3 Toggle green led using Systick timer.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="CH6 6-3 Toggle green led using Systick timer.ioc" name="CH6 Tutorial 6-3 Using Systick timer to Toggle green led.ioc" stamp="1702049865672" updateReferences="true"/>
+</session>

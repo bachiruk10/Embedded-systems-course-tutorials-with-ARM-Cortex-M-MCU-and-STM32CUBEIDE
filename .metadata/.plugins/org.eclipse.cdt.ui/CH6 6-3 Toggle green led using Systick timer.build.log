@@ -1,0 +1,10 @@
+18:52:12 **** Incremental Build of configuration Debug for project CH6 6-3 Toggle green led using Systick timer ****
+make -j8 all 
+arm-none-eabi-size   CH6\ 6-3\ Toggle\ green\ led\ using\ Systick\ timer.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6112	     20	   1572	   7704	   1e18	CH6 6-3 Toggle green led using Systick timer.elf
+Finished building: default.size.stdout
+ 
+
+18:52:13 Build Finished. 0 errors, 0 warnings. (took 315ms)
+

@@ -1,0 +1,10 @@
+22:51:58 **** Incremental Build of configuration Debug for project CH10 FreeRTOS - Tutorial 10-23 RTOS Software Timer Example ****
+make -j8 all 
+arm-none-eabi-size  CH10\ FreeRTOS\ -\ Tutorial\ 10-23\ RTOS\ Software\ Timer\ Example.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22872	    116	  20908	  43896	   ab78	CH10 FreeRTOS - Tutorial 10-23 RTOS Software Timer Example.elf
+Finished building: default.size.stdout
+ 
+
+22:51:58 Build Finished. 0 errors, 0 warnings. (took 533ms)
+

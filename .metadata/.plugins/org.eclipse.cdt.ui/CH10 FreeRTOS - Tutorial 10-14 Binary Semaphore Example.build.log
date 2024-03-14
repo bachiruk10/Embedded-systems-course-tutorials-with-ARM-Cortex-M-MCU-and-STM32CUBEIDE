@@ -1,0 +1,10 @@
+23:21:41 **** Incremental Build of configuration Debug for project CH10 FreeRTOS - Tutorial 10-14 Binary Semaphore Example ****
+make -j8 all 
+arm-none-eabi-size  CH10\ FreeRTOS\ -\ Tutorial\ 10-14\ Binary\ Semaphore\ Example.elf 
+   text	   data	    bss	    dec	    hex	filename
+  26760	    116	  20908	  47784	   baa8	CH10 FreeRTOS - Tutorial 10-14 Binary Semaphore Example.elf
+Finished building: default.size.stdout
+ 
+
+23:21:42 Build Finished. 0 errors, 0 warnings. (took 531ms)
+

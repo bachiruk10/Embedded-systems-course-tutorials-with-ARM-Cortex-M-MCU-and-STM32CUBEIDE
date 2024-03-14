@@ -1,0 +1,10 @@
+15:51:19 **** Incremental Build of configuration Debug for project CH6 6-5 RTC Alarm ****
+make -j8 all 
+arm-none-eabi-size   CH6\ 6-5\ RTC\ Alarm.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16912	    120	   1688	  18720	   4920	CH6 6-5 RTC Alarm.elf
+Finished building: default.size.stdout
+ 
+
+15:51:19 Build Finished. 0 errors, 0 warnings. (took 433ms)
+

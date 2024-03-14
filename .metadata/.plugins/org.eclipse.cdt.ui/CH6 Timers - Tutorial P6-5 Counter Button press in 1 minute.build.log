@@ -1,0 +1,10 @@
+15:09:03 **** Incremental Build of configuration Debug for project CH6 Timers - Tutorial P6-5 Counter Button press in 1 minute ****
+make -j8 all 
+arm-none-eabi-size  CH6\ Timers\ -\ Tutorial\ P6-5\ Counter\ Button\ press\ in\ 1\ minute.elf 
+   text	   data	    bss	    dec	    hex	filename
+  15892	    112	   2056	  18060	   468c	CH6 Timers - Tutorial P6-5 Counter Button press in 1 minute.elf
+Finished building: default.size.stdout
+ 
+
+15:09:04 Build Finished. 0 errors, 0 warnings. (took 367ms)
+

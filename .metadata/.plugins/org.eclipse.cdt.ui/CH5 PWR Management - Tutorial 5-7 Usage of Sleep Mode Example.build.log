@@ -1,0 +1,10 @@
+14:36:34 **** Incremental Build of configuration Debug for project CH5 PWR Management - Tutorial 5-7 Usage of Sleep Mode Example ****
+make -j8 all 
+arm-none-eabi-size  CH5\ PWR\ Management\ -\ Tutorial\ 5-7\ Usage\ of\ Sleep\ Mode\ Example.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6428	     20	   1580	   8028	   1f5c	CH5 PWR Management - Tutorial 5-7 Usage of Sleep Mode Example.elf
+Finished building: default.size.stdout
+ 
+
+14:36:35 Build Finished. 0 errors, 0 warnings. (took 365ms)
+

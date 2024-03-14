@@ -1,0 +1,10 @@
+23:21:55 **** Incremental Build of configuration Debug for project CH10 FreeRTOS - Tutorial 10-9 Events Example 2 ****
+make -j8 all 
+arm-none-eabi-size  CH10\ FreeRTOS\ -\ Tutorial\ 10-9\ Events\ Example\ 2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  27468	    116	  20988	  48572	   bdbc	CH10 FreeRTOS - Tutorial 10-9 Events Example 2.elf
+Finished building: default.size.stdout
+ 
+
+23:21:56 Build Finished. 0 errors, 0 warnings. (took 532ms)
+

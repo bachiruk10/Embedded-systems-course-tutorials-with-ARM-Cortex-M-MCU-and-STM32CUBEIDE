@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;CH9 Memory - Tutorial 9-15 ADC DMA maximum transfer speed on STM32F429 Board/Debug/CH9 Memory - Tutorial 9-15 ADC data acquisition using DMA - V2.elf&apos;" deleteContents="false" description="Delete resource &apos;CH9 Memory - Tutorial 9-15 ADC DMA maximum transfer speed on STM32F429 Board/Debug/CH9 Memory - Tutorial 9-15 ADC data acquisition using DMA - V2.elf&apos;" element1="/CH9 Memory - Tutorial 9-15 ADC DMA maximum transfer speed on STM32F429 Board/Debug/CH9 Memory - Tutorial 9-15 ADC data acquisition using DMA - V2.elf" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1709375583496"/>
+</session>

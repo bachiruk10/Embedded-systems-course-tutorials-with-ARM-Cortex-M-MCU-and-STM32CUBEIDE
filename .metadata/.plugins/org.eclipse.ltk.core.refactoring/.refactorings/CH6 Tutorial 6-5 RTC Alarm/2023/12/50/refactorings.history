@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CH6 Tutorial 6-5 RTC Alarm/CH6 6-5 RTC Alarm.ioc&apos; to &apos;CH6 Tutorial 6-5 RTC Alarm.ioc&apos;" description="Rename resource &apos;CH6 6-5 RTC Alarm.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="CH6 6-5 RTC Alarm.ioc" name="CH6 Tutorial 6-5 RTC Alarm.ioc" stamp="1702370371820" updateReferences="true"/>
+</session>

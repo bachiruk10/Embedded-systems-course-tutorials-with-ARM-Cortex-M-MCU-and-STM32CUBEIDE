@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CH8 Communication - Tutorial 8-2 UART_Non_blocking_mode/CH8 8-2 UART_Non_blocking_mode.ioc&apos; to &apos;CH8 Communication - Tutorial 8-2 UART_Non_blocking_mode.ioc&apos;" description="Rename resource &apos;CH8 8-2 UART_Non_blocking_mode.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="CH8 8-2 UART_Non_blocking_mode.ioc" name="CH8 Communication - Tutorial 8-2 UART_Non_blocking_mode.ioc" stamp="1702567835273" updateReferences="true"/>
+</session>

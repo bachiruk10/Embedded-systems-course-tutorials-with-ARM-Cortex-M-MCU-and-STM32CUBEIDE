@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CH6 Tutorial 6-2 Measure button press time - Input Capture/CH6 6-2 Measure button press time - Input Capture.ioc&apos; to &apos;CH6 Tutorial 6-2 Measure button press time - Input Capture.ioc&apos;" description="Rename resource &apos;CH6 6-2 Measure button press time - Input Capture.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="CH6 6-2 Measure button press time - Input Capture.ioc" name="CH6 Tutorial 6-2 Measure button press time - Input Capture.ioc" stamp="1702043882418" updateReferences="true"/>
+</session>

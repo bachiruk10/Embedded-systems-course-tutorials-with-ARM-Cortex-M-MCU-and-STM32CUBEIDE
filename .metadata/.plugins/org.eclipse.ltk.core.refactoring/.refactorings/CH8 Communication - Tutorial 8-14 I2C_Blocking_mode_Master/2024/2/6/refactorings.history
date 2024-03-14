@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CH8 Communication - Tutorial 8-14 I2C_Blocking_mode_Master/CH8 Communication - Tutorial 8-14 I2C_Blocking_mode.ioc&apos; to &apos;CH8 Communication - Tutorial 8-14 I2C_Blocking_mode_Master.ioc&apos;" description="Rename resource &apos;CH8 Communication - Tutorial 8-14 I2C_Blocking_mode.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="CH8 Communication - Tutorial 8-14 I2C_Blocking_mode.ioc" name="CH8 Communication - Tutorial 8-14 I2C_Blocking_mode_Master.ioc" stamp="1707246676763" updateReferences="true"/>
+</session>

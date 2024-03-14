@@ -1,0 +1,24 @@
+17:48:14 **** Incremental Build of configuration Debug for project Project1 ****
+make -j8 all 
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32F429I_DISC1 -DSTM32 -DSTM32F429ZITx -DSTM32F4 -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Src/main.o"
+../Src/main.c:22:4: warning: #warning "FPU is not initialized, but the project is compiling for an FPU. Please initialize the FPU before use." [-Wcpp]
+   22 |   #warning "FPU is not initialized, but the project is compiling for an FPU. Please initialize the FPU before use."
+      |    ^~~~~~~
+../Src/main.c: In function 'main':
+../Src/main.c:32:6: warning: unused variable 'f' [-Wunused-variable]
+   32 |  int f = c;
+      |      ^
+arm-none-eabi-gcc -o "Project1.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\MFIBADEK\STM32CubeIDE\workspace_1.12.1\Project1\STM32F429ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Project1.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Project1.elf
+ 
+arm-none-eabi-size   Project1.elf 
+arm-none-eabi-objdump -h -S  Project1.elf  > "Project1.list"
+   text	   data	    bss	    dec	    hex	filename
+    724	     16	   1576	   2316	    90c	Project1.elf
+Finished building: default.size.stdout
+ 
+Finished building: Project1.list
+ 
+
+17:48:15 Build Finished. 0 errors, 2 warnings. (took 580ms)
+

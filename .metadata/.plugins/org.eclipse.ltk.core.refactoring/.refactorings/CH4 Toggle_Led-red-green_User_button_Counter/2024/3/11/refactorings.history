@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CH4 Toggle_Led-red-green_User_button_Counter/CH4 Toggle_Led-red-green_User_button_Counter.ioc&apos; to &apos;Turn on the green and red LEDs by specific button press count values.ioc&apos;" description="Rename resource &apos;CH4 Toggle_Led-red-green_User_button_Counter.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="CH4 Toggle_Led-red-green_User_button_Counter.ioc" name="Turn on the green and red LEDs by specific button press count values.ioc" stamp="1710069384511" updateReferences="true"/>
+</session>

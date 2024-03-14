@@ -1,0 +1,10 @@
+23:33:43 **** Incremental Build of configuration Debug for project CH10 FreeRTOS - Tutorial 10-3 Task management ****
+make -j8 all 
+arm-none-eabi-size  CH10\ FreeRTOS\ -\ Tutorial\ 10-3\ Task\ management.elf 
+   text	   data	    bss	    dec	    hex	filename
+  24768	    116	  20908	  45792	   b2e0	CH10 FreeRTOS - Tutorial 10-3 Task management.elf
+Finished building: default.size.stdout
+ 
+
+23:33:43 Build Finished. 0 errors, 0 warnings. (took 481ms)
+

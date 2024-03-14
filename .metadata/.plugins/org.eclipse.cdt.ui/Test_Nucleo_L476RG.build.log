@@ -1,0 +1,10 @@
+14:19:53 **** Incremental Build of configuration Debug for project Test_Nucleo_L476RG ****
+make -j8 all 
+arm-none-eabi-size   Test_Nucleo_L476RG.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11720	     20	   1660	  13400	   3458	Test_Nucleo_L476RG.elf
+Finished building: default.size.stdout
+ 
+
+14:19:54 Build Finished. 0 errors, 0 warnings. (took 321ms)
+

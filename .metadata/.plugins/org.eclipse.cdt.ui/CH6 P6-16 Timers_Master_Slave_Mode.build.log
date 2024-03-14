@@ -1,0 +1,10 @@
+16:53:51 **** Incremental Build of configuration Debug for project CH6 P6-16 Timers_Master_Slave_Mode ****
+make -j8 all 
+arm-none-eabi-size   CH6\ P6-16\ Timers_Master_Slave_Mode.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12292	     20	   1716	  14028	   36cc	CH6 P6-16 Timers_Master_Slave_Mode.elf
+Finished building: default.size.stdout
+ 
+
+16:53:52 Build Finished. 0 errors, 0 warnings. (took 320ms)
+

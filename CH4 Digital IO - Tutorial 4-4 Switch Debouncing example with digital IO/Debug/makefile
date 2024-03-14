@@ -60,8 +60,8 @@ all: main-build
 main-build: CH4\ Digital\ IO\ -\ Tutorial\ 4-4\ Switch\ Debouncing\ example\ with\ digital\ IO.elf secondary-outputs
 
 # Tool invocations
-CH4\ Digital\ IO\ -\ Tutorial\ 4-4\ Switch\ Debouncing\ example\ with\ digital\ IO.elf CH4\ Digital\ IO\ -\ Tutorial\ 4-4\ Switch\ Debouncing\ example\ with\ digital\ IO.map: $(OBJS) $(USER_OBJS) C:\Users\MFIBADEK\STM32CubeIDE\Embedded\ systems\ course\ tutorials\ with\ ARM\ Cortex\ M\ MCU\ and\ STM32CUBEIDE\CH4\ Digital\ IO\ -\ Tutorial\ 4-4\ Switch\ Debouncing\ example\ with\ digital\ IO\STM32F429ZITX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "CH4 Digital IO - Tutorial 4-4 Switch Debouncing example with digital IO.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\MFIBADEK\STM32CubeIDE\Embedded systems course tutorials with ARM Cortex M MCU and STM32CUBEIDE\CH4 Digital IO - Tutorial 4-4 Switch Debouncing example with digital IO\STM32F429ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="CH4 Digital IO - Tutorial 4-4 Switch Debouncing example with digital IO.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+CH4\ Digital\ IO\ -\ Tutorial\ 4-4\ Switch\ Debouncing\ example\ with\ digital\ IO.elf CH4\ Digital\ IO\ -\ Tutorial\ 4-4\ Switch\ Debouncing\ example\ with\ digital\ IO.map: $(OBJS) $(USER_OBJS) C:\New\ folder\CH4\ Digital\ IO\ -\ Tutorial\ 4-4\ Switch\ Debouncing\ example\ with\ digital\ IO\STM32F429ZITX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "CH4 Digital IO - Tutorial 4-4 Switch Debouncing example with digital IO.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\New folder\CH4 Digital IO - Tutorial 4-4 Switch Debouncing example with digital IO\STM32F429ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="CH4 Digital IO - Tutorial 4-4 Switch Debouncing example with digital IO.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

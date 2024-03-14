@@ -1,0 +1,10 @@
+15:14:47 **** Incremental Build of configuration Debug for project CH6 Tutorial 6-1 Timer Update event - Output Compare ****
+make -j8 all 
+arm-none-eabi-size   CH6\ Tutorial\ 6-1\ Timer\ Update\ event\ -\ Output\ Compare.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11180	     20	   1644	  12844	   322c	CH6 Tutorial 6-1 Timer Update event - Output Compare.elf
+Finished building: default.size.stdout
+ 
+
+15:14:47 Build Finished. 0 errors, 0 warnings. (took 315ms)
+

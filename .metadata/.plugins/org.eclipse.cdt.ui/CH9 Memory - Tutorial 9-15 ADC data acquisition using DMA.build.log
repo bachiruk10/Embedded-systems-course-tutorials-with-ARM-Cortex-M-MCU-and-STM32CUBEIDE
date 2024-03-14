@@ -1,0 +1,10 @@
+12:24:22 **** Incremental Build of configuration Debug for project CH9 Memory - Tutorial 9-15 ADC data acquisition using DMA ****
+make -j8 all 
+arm-none-eabi-size  CH9\ Memory\ -\ Tutorial\ 9-15\ ADC\ data\ acquisition\ using\ DMA.elf 
+   text	   data	    bss	    dec	    hex	filename
+  15252	     20	   2012	  17284	   4384	CH9 Memory - Tutorial 9-15 ADC data acquisition using DMA.elf
+Finished building: default.size.stdout
+ 
+
+12:24:22 Build Finished. 0 errors, 0 warnings. (took 486ms)
+

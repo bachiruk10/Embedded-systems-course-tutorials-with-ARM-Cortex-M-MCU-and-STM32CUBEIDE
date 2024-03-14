@@ -1,0 +1,16 @@
+15:07:58 **** Build of configuration Debug for project CH6 Timers - Tutorial P6-7 Turn led ON for 5 seconds ****
+make -j8 all 
+arm-none-eabi-gcc -o "CH6 Timers - Tutorial P6-7 Turn led ON for 5 seconds.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\MFIBADEK\STM32CubeIDE\Embedded systems course tutorials with ARM Cortex M MCU and STM32CUBEIDE\CH6 Timers - Tutorial P6-7 Turn led ON for 5 seconds\STM32F429ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="CH6 Timers - Tutorial P6-7 Turn led ON for 5 seconds.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: CH6 Timers - Tutorial P6-7 Turn led ON for 5 seconds.elf
+ 
+arm-none-eabi-size  CH6\ Timers\ -\ Tutorial\ P6-7\ Turn\ led\ ON\ for\ 5\ seconds.elf 
+arm-none-eabi-objdump -h -S CH6\ Timers\ -\ Tutorial\ P6-7\ Turn\ led\ ON\ for\ 5\ seconds.elf  > "CH6 Timers - Tutorial P6-7 Turn led ON for 5 seconds.list"
+   text	   data	    bss	    dec	    hex	filename
+  11600	     20	   1652	  13272	   33d8	CH6 Timers - Tutorial P6-7 Turn led ON for 5 seconds.elf
+Finished building: default.size.stdout
+ 
+Finished building: CH6 Timers - Tutorial P6-7 Turn led ON for 5 seconds.list
+ 
+
+15:08:00 Build Finished. 0 errors, 0 warnings. (took 1s.726ms)
+

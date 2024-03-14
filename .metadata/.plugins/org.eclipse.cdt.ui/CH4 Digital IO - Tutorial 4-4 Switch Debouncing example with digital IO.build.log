@@ -1,0 +1,16 @@
+18:18:35 **** Incremental Build of configuration Debug for project CH4 Digital IO - Tutorial 4-4 Switch Debouncing example with digital IO ****
+make -j8 all 
+arm-none-eabi-gcc -o "CH4 Digital IO - Tutorial 4-4 Switch Debouncing example with digital IO.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\New folder\CH4 Digital IO - Tutorial 4-4 Switch Debouncing example with digital IO\STM32F429ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="CH4 Digital IO - Tutorial 4-4 Switch Debouncing example with digital IO.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: CH4 Digital IO - Tutorial 4-4 Switch Debouncing example with digital IO.elf
+ 
+arm-none-eabi-size  CH4\ Digital\ IO\ -\ Tutorial\ 4-4\ Switch\ Debouncing\ example\ with\ digital\ IO.elf 
+arm-none-eabi-objdump -h -S CH4\ Digital\ IO\ -\ Tutorial\ 4-4\ Switch\ Debouncing\ example\ with\ digital\ IO.elf  > "CH4 Digital IO - Tutorial 4-4 Switch Debouncing example with digital IO.list"
+   text	   data	    bss	    dec	    hex	filename
+   6360	     20	   1580	   7960	   1f18	CH4 Digital IO - Tutorial 4-4 Switch Debouncing example with digital IO.elf
+Finished building: default.size.stdout
+ 
+Finished building: CH4 Digital IO - Tutorial 4-4 Switch Debouncing example with digital IO.list
+ 
+
+18:18:36 Build Finished. 0 errors, 0 warnings. (took 827ms)
+

@@ -1,0 +1,17 @@
+13:40:27 **** Incremental Build of configuration Debug for project CH3 ITM Debug Tool ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F429xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "CH3 ITM Debug Tool.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\MFIBADEK\STM32CubeIDE\workspace_1.12.1\CH3 ITM Debug Tool\STM32F429ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="CH3 ITM Debug Tool.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: CH3 ITM Debug Tool.elf
+ 
+arm-none-eabi-size   CH3\ ITM\ Debug\ Tool.elf 
+arm-none-eabi-objdump -h -S  CH3\ ITM\ Debug\ Tool.elf  > "CH3 ITM Debug Tool.list"
+   text	   data	    bss	    dec	    hex	filename
+  12260	    120	   1592	  13972	   3694	CH3 ITM Debug Tool.elf
+Finished building: default.size.stdout
+ 
+Finished building: CH3 ITM Debug Tool.list
+ 
+
+13:40:28 Build Finished. 0 errors, 0 warnings. (took 994ms)
+

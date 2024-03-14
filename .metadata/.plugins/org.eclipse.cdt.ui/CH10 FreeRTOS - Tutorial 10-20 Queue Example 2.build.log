@@ -1,0 +1,10 @@
+23:21:44 **** Incremental Build of configuration Debug for project CH10 FreeRTOS - Tutorial 10-20 Queue Example 2 ****
+make -j8 all 
+arm-none-eabi-size  CH10\ FreeRTOS\ -\ Tutorial\ 10-20\ Queue\ Example\ 2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  29048	    156	  21068	  50272	   c460	CH10 FreeRTOS - Tutorial 10-20 Queue Example 2.elf
+Finished building: default.size.stdout
+ 
+
+23:21:44 Build Finished. 0 errors, 0 warnings. (took 643ms)
+

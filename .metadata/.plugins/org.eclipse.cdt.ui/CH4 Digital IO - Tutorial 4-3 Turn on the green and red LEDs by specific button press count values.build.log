@@ -1,0 +1,10 @@
+13:37:20 **** Incremental Build of configuration Debug for project CH4 Digital IO - Tutorial 4-3 Turn on the green and red LEDs by specific button press count values ****
+make -j8 all 
+arm-none-eabi-size  CH4\ Digital\ IO\ -\ Tutorial\ 4-3\ Turn\ on\ the\ green\ and\ red\ LEDs\ by\ specific\ button\ press\ count\ values.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6180	     20	   1572	   7772	   1e5c	CH4 Digital IO - Tutorial 4-3 Turn on the green and red LEDs by specific button press count values.elf
+Finished building: default.size.stdout
+ 
+
+13:37:20 Build Finished. 0 errors, 0 warnings. (took 369ms)
+

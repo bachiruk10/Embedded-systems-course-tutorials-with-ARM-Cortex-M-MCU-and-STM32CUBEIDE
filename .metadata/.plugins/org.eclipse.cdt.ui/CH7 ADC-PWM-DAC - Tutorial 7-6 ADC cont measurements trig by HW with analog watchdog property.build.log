@@ -1,0 +1,10 @@
+23:24:03 **** Build of configuration Debug for project CH7 ADC-PWM-DAC - Tutorial 7-6 ADC cont measurements trig by HW with analog watchdog property ****
+make -j8 all 
+arm-none-eabi-size  CH7\ ADC-PWM-DAC\ -\ Tutorial\ 7-6\ ADC\ cont\ measurements\ trig\ by\ HW\ with\ analog\ watchdog\ property.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9568	     20	   2060	  11648	   2d80	CH7 ADC-PWM-DAC - Tutorial 7-6 ADC cont measurements trig by HW with analog watchdog property.elf
+Finished building: default.size.stdout
+ 
+
+23:24:04 Build Finished. 0 errors, 0 warnings. (took 664ms)
+

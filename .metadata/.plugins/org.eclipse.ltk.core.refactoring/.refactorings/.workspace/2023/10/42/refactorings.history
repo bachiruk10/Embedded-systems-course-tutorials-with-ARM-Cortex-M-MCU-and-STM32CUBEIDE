@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;CH5 Interrupt_GPIO_Priority_TEST&apos;" deleteContents="true" description="Delete resource &apos;CH5 Interrupt_GPIO_Priority_TEST&apos;" element1="/CH5 Interrupt_GPIO_Priority_TEST" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1697887037310"/>
+</session>

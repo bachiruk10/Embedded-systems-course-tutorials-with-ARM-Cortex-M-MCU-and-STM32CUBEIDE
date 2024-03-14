@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CH6 _Starting with Timers - Blink led with timer/CH6 Start with Timers - Blink led with timer.ioc&apos; to &apos;CH6 _Starting with Timers - Blink led with timer.ioc&apos;" description="Rename resource &apos;CH6 Start with Timers - Blink led with timer.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="CH6 Start with Timers - Blink led with timer.ioc" name="CH6 _Starting with Timers - Blink led with timer.ioc" stamp="1699254671134" updateReferences="true"/>
+</session>

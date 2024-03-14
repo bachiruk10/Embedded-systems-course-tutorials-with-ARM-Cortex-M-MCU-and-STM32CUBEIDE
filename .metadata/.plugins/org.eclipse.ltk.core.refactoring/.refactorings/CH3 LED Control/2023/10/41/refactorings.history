@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CH3 LED Control/CH3 ITM Debug Tool.ioc&apos; to &apos;CH3 LED Control.ioc&apos;" description="Rename resource &apos;CH3 ITM Debug Tool.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="CH3 ITM Debug Tool.ioc" name="CH3 LED Control.ioc" stamp="1697009702437" updateReferences="true"/>
+</session>

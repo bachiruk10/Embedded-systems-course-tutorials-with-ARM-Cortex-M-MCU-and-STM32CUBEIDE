@@ -1,0 +1,10 @@
+16:24:00 **** Incremental Build of configuration Debug for project CH8 Communication - Tutorial 8-14 I2C_Blocking_mode_Slave ****
+make -j8 all 
+arm-none-eabi-size   CH8\ Communication\ -\ Tutorial\ 8-14\ I2C_Blocking_mode_Slave.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11720	     20	   1660	  13400	   3458	CH8 Communication - Tutorial 8-14 I2C_Blocking_mode_Slave.elf
+Finished building: default.size.stdout
+ 
+
+16:24:00 Build Finished. 0 errors, 0 warnings. (took 314ms)
+

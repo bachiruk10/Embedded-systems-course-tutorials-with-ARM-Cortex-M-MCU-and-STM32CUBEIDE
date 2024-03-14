@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\New folder\CH4 Digital IO - Tutorial 4-4 Switch Debouncing example with digital IO"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\Embedded_Education_STM32F4-DISCOVERY\"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\Embedded_Education_STM32F4-DISCOVERY"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\STM32F4Dicovery"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\STM32F4Dicovery\CH6 Tutorial 6-5 RTC Alarm"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\STM32F4Dicovery\CH6 Tutorial 6-4 Using IWDG to reset the system"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\STM32F4Dicovery\CH6 Tutorial 6-3 Using Systick timer to Toggle green led"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\STM32F4Dicovery\CH6 Tutorial 6-2 Measure button press time - Input Capture"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\STM32F4Dicovery\CH6 Tutorial 6-1 Timer Update event - Output Compare"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\STM32F4Dicovery\CH6 Starting with Timers - Blink led with timer"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\STM32F4Dicovery\CH6 Start with Timers - Blink led with timer"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\STM32F4Dicovery\_Nucleo-printf"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\STM32F4Dicovery\CH3 LED Control"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\Embedded_Education_STM32F4-DISCOVERY\CH10 FreeRTOS - Tutorial 10-3 Task management Example 1"/>
+			<item value="E:\OneDriveTuni\OneDrive - TUNI.fi\Documents Tuni\Documents 2\Embedded systems\STM32CubeIDE\workspace_1.10.1\DAC_DMA_Generate_Waveform_LUT_DISCO"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\Embedded_Education_STM32F4-DISCOVERY\Digital Input and Output"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\Embedded_Education_STM32F4-DISCOVERY"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\STM32F4Dicovery\CH6 Tutorial 6-1 Timer Update event - Output Compare"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\STM32F4Dicovery\CH6 P6-16 Timers_Master_Slave_Gated_Mode"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\STM32F4Dicovery\CH6 Start with Timers - Blink led with timer"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\STM32F4Dicovery\_Nucleo-printf"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\STM32F4Dicovery\CH3 LED Control"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\STM32F4Dicovery"/>
+			<item value="C:\Users\MFIBADEK\STM32CubeIDE\workspace_1.12.1\CH3 LED Control"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="972"/>
+		<item key="DIALOG_Y_ORIGIN" value="521"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="1026"/>
+		<item key="DIALOG_Y_ORIGIN" value="322"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="580"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="BUILD_NOW" value="true"/>
+		<item key="BUILD_ALL" value="true"/>
+		<item key="TOGGLE_SELECTED" value="true"/>
+		<item key="DIALOG_WIDTH" value="543"/>
+		<item key="DIALOG_HEIGHT" value="467"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

@@ -1,0 +1,10 @@
+14:42:40 **** Incremental Build of configuration Debug for project CH5 PWR Management - Tutorial 5-7 Usage of Standby Mode Example ****
+make -j8 all 
+arm-none-eabi-size  CH5\ PWR\ Management\ -\ Tutorial\ 5-7\ Usage\ of\ Standby\ Mode\ Example.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6180	     20	   1572	   7772	   1e5c	CH5 PWR Management - Tutorial 5-7 Usage of Standby Mode Example.elf
+Finished building: default.size.stdout
+ 
+
+14:42:40 Build Finished. 0 errors, 0 warnings. (took 370ms)
+

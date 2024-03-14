@@ -1,0 +1,10 @@
+23:24:03 **** Build of configuration Debug for project CH7 ADC-PWM-DAC - Tutorial 7-4 ADC multi-channel in coninuous measurements with Timer trigger ****
+make -j8 all 
+arm-none-eabi-size  CH7\ ADC-PWM-DAC\ -\ Tutorial\ 7-4\ ADC\ multi-channel\ in\ coninuous\ measurements\ with\ Timer\ trigger.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13296	     24	   2080	  15400	   3c28	CH7 ADC-PWM-DAC - Tutorial 7-4 ADC multi-channel in coninuous measurements with Timer trigger.elf
+Finished building: default.size.stdout
+ 
+
+23:24:03 Build Finished. 0 errors, 0 warnings. (took 602ms)
+

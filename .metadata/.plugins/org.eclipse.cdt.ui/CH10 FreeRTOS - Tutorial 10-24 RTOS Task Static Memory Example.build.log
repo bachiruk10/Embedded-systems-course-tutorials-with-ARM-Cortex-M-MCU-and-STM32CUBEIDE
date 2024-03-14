@@ -1,0 +1,10 @@
+23:10:14 **** Incremental Build of configuration Debug for project CH10 FreeRTOS - Tutorial 10-24 RTOS Task Static Memory Example ****
+make -j8 all 
+arm-none-eabi-size  CH10\ FreeRTOS\ -\ Tutorial\ 10-24\ RTOS\ Task\ Static\ Memory\ Example.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22696	    136	  21592	  44424	   ad88	CH10 FreeRTOS - Tutorial 10-24 RTOS Task Static Memory Example.elf
+Finished building: default.size.stdout
+ 
+
+23:10:15 Build Finished. 0 errors, 0 warnings. (took 476ms)
+
